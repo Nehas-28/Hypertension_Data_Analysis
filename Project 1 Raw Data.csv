@@ -1,0 +1,1001 @@
+Patient ID,Age,Gender,Admit Date,Disease Status,Bed Occupancy,Billing Amount,Health Insurance Amount
+7284,84,Male,12-07-2024,No Hypertension,ICU,8553.36,6527.8
+4750,60,Male,12-07-2024,No Hypertension,Private,21753.49,4389.19
+4582,66,Female,12-07-2024,No Hypertension,General,7358.94,967.44
+7224,88,Male,12-07-2024,Stage 1 Hypertension,General,3974.31,1825.98
+6344,66,Male,12-07-2024,Stage 1 Hypertension,General,35890.33,14201.95
+6378,30,Male,12-07-2024,No Hypertension,General,3672.79,1340.66
+5106,49,Male,12-07-2024,Stage 2 Hypertension,General,41080.86,18409.44
+3529,39,Female,12-07-2024,No Hypertension,General,34823.64,27375.48
+4510,75,Male,12-07-2024,Emergency Case,ICU,22668.3,13213.55
+8921,61,Female,12-07-2024,Emergency Case,ICU,16605.76,14628.73
+4006,54,Female,12-07-2024,No Hypertension,ICU,1901.04,241.24
+2889,66,Female,12-07-2024,Emergency Case,ICU,7630.03,3461.63
+3146,66,Female,12-07-2024,Stage 2 Hypertension,General,49527.88,6418.96
+8195,58,Female,12-07-2024,Emergency Case,General,22400.02,3091.76
+3927,87,Female,12-07-2024,Stage 2 Hypertension,General,29237.9,20726.82
+4954,69,Male,12-07-2024,Stage 2 Hypertension,Private,23819.07,4721.17
+5333,75,Male,12-07-2024,Stage 1 Hypertension,ICU,46754.66,8766.12
+5279,67,Female,12-07-2024,Stage 1 Hypertension,General,21264.41,13849.88
+6111,24,Male,12-07-2024,No Hypertension,ICU,36503.96,29981.73
+4501,36,Female,12-07-2024,Stage 2 Hypertension,Private,4890.84,2346.09
+4432,69,Female,12-07-2024,Stage 1 Hypertension,ICU,44258.38,10469.39
+6632,43,Female,12-07-2024,Stage 1 Hypertension,Private,39650.16,11916.93
+7275,56,Male,12-07-2024,No Hypertension,ICU,6778.36,5408.82
+4588,27,Female,12-07-2024,Emergency Case,Private,1162.06,225.3
+4155,82,Male,12-07-2024,Emergency Case,ICU,7242.31,4659.44
+5658,67,Male,12-07-2024,Stage 2 Hypertension,General,28199.3,5853.91
+4115,31,Female,12-07-2024,Emergency Case,ICU,47753.61,32227.32
+2771,80,Female,12-07-2024,No Hypertension,Private,34159.15,8650.4
+5397,77,Male,12-07-2024,Stage 2 Hypertension,ICU,14880.12,4947.22
+2343,46,Female,12-07-2024,Emergency Case,Private,5301.96,814.41
+6147,61,Male,12-07-2024,No Hypertension,Private,12777.68,6169
+9830,47,Male,12-07-2024,Stage 2 Hypertension,Private,49677.19,8940.62
+5315,36,Male,12-07-2024,Emergency Case,Private,15719.27,2775.19
+2137,42,Male,12-07-2024,Stage 1 Hypertension,Private,7969.74,3818.53
+1474,55,Female,12-07-2024,Stage 1 Hypertension,General,28737.37,21731
+3504,62,Male,12-07-2024,Stage 1 Hypertension,ICU,8581.02,6400.84
+5061,77,Female,12-07-2024,Emergency Case,ICU,10608.87,8618.55
+6881,32,Male,12-07-2024,Emergency Case,Private,14055.39,8451.53
+8705,33,Female,12-07-2024,No Hypertension,ICU,2549.78,497.56
+5906,51,Male,12-07-2024,No Hypertension,ICU,45094.96,36139.51
+7071,63,Female,12-07-2024,Stage 2 Hypertension,Private,16311.56,6584.85
+8136,59,Male,12-07-2024,Emergency Case,ICU,35513.33,19288.45
+2988,33,Male,12-07-2024,Emergency Case,Private,7592.74,2443.14
+8753,34,Male,12-07-2024,Emergency Case,Private,35281.12,25204.82
+2545,65,Female,12-07-2024,Stage 1 Hypertension,Private,6506.22,5111.15
+2832,45,Female,12-07-2024,Emergency Case,Private,38462.4,29751.68
+5720,41,Female,12-07-2024,Emergency Case,General,20319.15,8172.16
+8397,47,Female,12-07-2024,Stage 1 Hypertension,ICU,24905.19,11874.6
+6143,62,Male,12-07-2024,Stage 2 Hypertension,General,45700.39,26691.87
+7812,47,Female,12-07-2024,Stage 2 Hypertension,Private,10858.17,1197.85
+5649,41,Female,12-07-2024,Emergency Case,ICU,28319.88,19962.44
+1821,54,Male,12-07-2024,No Hypertension,General,18243.74,9741.21
+3041,36,Male,12-07-2024,Stage 2 Hypertension,ICU,28709.09,24538.28
+9751,43,Male,12-07-2024,No Hypertension,Private,15667.84,11137.82
+8041,77,Male,12-07-2024,Stage 2 Hypertension,Private,4240.68,2066.88
+2139,79,Female,12-07-2024,Emergency Case,General,36533.42,30682.69
+4593,36,Male,12-07-2024,No Hypertension,Private,2063.37,1010.17
+5102,64,Male,12-07-2024,Stage 2 Hypertension,Private,10103.76,6276.75
+2424,73,Male,12-07-2024,Stage 2 Hypertension,Private,32404.29,5326.14
+5669,73,Male,12-07-2024,No Hypertension,Private,47481.48,40658.02
+2625,41,Male,12-07-2024,Emergency Case,ICU,17868.97,5326.58
+7965,25,Female,12-07-2024,Stage 2 Hypertension,Private,10223.12,5134.2
+6635,67,Male,12-07-2024,Emergency Case,Private,21381.71,3097
+5232,38,Male,12-07-2024,Stage 1 Hypertension,General,31199.45,5658.89
+4116,34,Female,12-07-2024,Emergency Case,General,13674.24,1422.97
+7912,23,Male,12-07-2024,Stage 2 Hypertension,Private,35239.01,25191.84
+8251,54,Female,12-07-2024,Emergency Case,Private,30990.63,24627.53
+9938,29,Female,12-07-2024,Emergency Case,General,21239.16,4365.99
+8043,84,Male,12-07-2024,Stage 1 Hypertension,Private,44252.44,36160.57
+7226,46,Male,12-07-2024,No Hypertension,General,11751.4,3153.01
+7932,68,Female,12-07-2024,No Hypertension,General,29000.59,18603.36
+4241,30,Female,12-07-2024,Emergency Case,Private,24268.7,8949.66
+1931,75,Male,12-07-2024,Emergency Case,Private,40782.75,28083.35
+5494,35,Male,12-07-2024,Emergency Case,General,12571.56,5042.07
+1919,58,Male,12-07-2024,No Hypertension,General,35087.03,17721.32
+2307,37,Female,12-07-2024,Stage 1 Hypertension,ICU,13189.39,6291.02
+4388,90,Female,12-07-2024,No Hypertension,General,39719.58,15824.73
+3286,31,Male,12-07-2024,Stage 1 Hypertension,General,28021.92,4834.72
+4130,66,Male,12-07-2024,No Hypertension,ICU,48710.41,28055.67
+5562,30,Female,12-07-2024,Stage 2 Hypertension,ICU,31194.83,11693.72
+3634,60,Male,12-07-2024,Stage 1 Hypertension,General,44605.86,31906.36
+5183,52,Male,12-07-2024,Stage 2 Hypertension,ICU,46500.73,36157.5
+2584,35,Female,12-07-2024,Stage 2 Hypertension,ICU,28342.97,25414.2
+6927,56,Male,12-07-2024,Stage 2 Hypertension,General,37721.84,9563.72
+7209,75,Male,12-07-2024,Stage 1 Hypertension,Private,34099.3,30654.54
+8062,26,Male,12-07-2024,Stage 1 Hypertension,ICU,47498.1,42583.54
+1958,76,Male,12-07-2024,Stage 1 Hypertension,Private,26941.35,9869.29
+2958,35,Female,12-07-2024,No Hypertension,ICU,41060.09,24536.42
+5861,30,Male,12-07-2024,Emergency Case,ICU,2052.93,321.4
+6574,48,Female,12-07-2024,Emergency Case,ICU,4472.82,2568.99
+8242,21,Male,12-07-2024,Stage 1 Hypertension,Private,28621.61,21803.46
+2341,50,Female,12-07-2024,No Hypertension,ICU,16410.47,2419.1
+4846,42,Male,12-07-2024,Emergency Case,ICU,33173.67,14099.84
+7381,74,Female,12-07-2024,Stage 2 Hypertension,Private,25827.79,9614.41
+7865,73,Female,12-07-2024,Stage 2 Hypertension,Private,9605.83,7349.74
+4811,87,Female,12-07-2024,Stage 1 Hypertension,General,43801.15,17841.56
+5930,44,Male,12-07-2024,Emergency Case,Private,10939.73,4981.69
+3677,73,Male,12-07-2024,No Hypertension,General,49923.25,13801.68
+5135,31,Female,12-07-2024,Stage 1 Hypertension,Private,17833.76,7995.07
+2891,33,Female,12-07-2024,Stage 2 Hypertension,General,44812.37,14373.76
+5345,22,Male,12-07-2024,Emergency Case,General,48813.07,32600.31
+3939,40,Female,12-07-2024,No Hypertension,General,29957.54,3753.05
+6409,68,Female,12-07-2024,No Hypertension,ICU,38644.76,13688.22
+2163,60,Female,12-07-2024,Emergency Case,Private,5390.14,4745.72
+6733,65,Female,12-07-2024,Emergency Case,Private,23143.41,16284.63
+8994,81,Male,12-07-2024,Emergency Case,General,10460.9,8710.92
+8560,90,Male,12-07-2024,Stage 1 Hypertension,General,29996.74,23809.54
+5558,65,Female,12-07-2024,Stage 2 Hypertension,General,43365.09,8076.92
+3664,50,Female,12-07-2024,Stage 2 Hypertension,ICU,18540.2,6412.5
+2790,33,Male,12-07-2024,Stage 1 Hypertension,ICU,27362.27,15690
+2869,87,Male,12-07-2024,Stage 2 Hypertension,General,25220.46,19759.76
+8527,67,Female,12-07-2024,Stage 1 Hypertension,ICU,41358.51,8046.29
+5530,31,Male,12-07-2024,Emergency Case,General,20640.01,5398.3
+1508,79,Female,12-07-2024,Stage 1 Hypertension,Private,6499.33,5335.56
+7232,56,Female,12-07-2024,Emergency Case,ICU,1300.43,236.59
+3938,27,Male,12-07-2024,Stage 2 Hypertension,General,39559.07,7958.45
+7906,28,Male,12-07-2024,Stage 1 Hypertension,ICU,37825.47,27780.69
+8144,30,Female,12-07-2024,Emergency Case,General,18784.23,6054.94
+5632,39,Male,12-07-2024,Stage 2 Hypertension,Private,16588.24,6838.35
+9279,84,Male,12-07-2024,Emergency Case,ICU,10901.87,2756.02
+9666,61,Male,12-07-2024,Stage 2 Hypertension,Private,38506.32,17955.47
+9835,57,Male,12-07-2024,Stage 2 Hypertension,General,20560.37,14868.85
+7730,73,Male,12-07-2024,No Hypertension,Private,48126.37,40887.1
+8749,80,Male,12-07-2024,No Hypertension,General,45967.89,34801.94
+1893,37,Female,12-07-2024,Stage 2 Hypertension,ICU,4816.83,608.31
+6529,52,Female,12-07-2024,Emergency Case,Private,20088.75,14179.99
+2924,55,Male,12-07-2024,Stage 2 Hypertension,General,8405.65,6896.5
+8486,22,Female,12-07-2024,Emergency Case,ICU,36981.36,14433.24
+3925,56,Female,12-07-2024,Stage 1 Hypertension,ICU,23093.41,15826.2
+2528,71,Male,12-07-2024,Stage 2 Hypertension,ICU,1408.37,1211.12
+7211,69,Female,12-07-2024,Emergency Case,Private,2527.49,411.69
+8939,70,Female,12-07-2024,No Hypertension,ICU,26744.17,5573.43
+6238,60,Female,12-07-2024,No Hypertension,Private,30860.88,15772.79
+3584,57,Male,12-07-2024,No Hypertension,ICU,6800.98,5080.58
+3503,80,Female,12-07-2024,No Hypertension,Private,42555.42,32404.15
+8373,77,Male,12-07-2024,Stage 2 Hypertension,General,46760.69,36296.77
+9348,28,Female,12-07-2024,Stage 1 Hypertension,Private,34796.24,8473.94
+1018,47,Male,12-07-2024,Emergency Case,General,36956.91,15889.65
+9153,57,Female,12-07-2024,Stage 1 Hypertension,General,17300.08,2868.1
+2070,72,Female,12-07-2024,No Hypertension,General,33348.07,16852.38
+2519,53,Female,12-07-2024,Stage 1 Hypertension,Private,40249.98,30887.84
+4119,72,Male,12-07-2024,Emergency Case,Private,42785.44,7238.42
+3492,26,Female,12-07-2024,No Hypertension,ICU,22157.51,12954.43
+9327,25,Male,12-07-2024,Emergency Case,Private,49685.69,41996.56
+6568,86,Male,12-07-2024,No Hypertension,General,11331.98,8446.29
+1200,90,Male,12-07-2024,Emergency Case,Private,23682.51,11679.83
+6794,27,Female,12-07-2024,Stage 1 Hypertension,Private,37031.26,32534.36
+3361,60,Female,12-07-2024,No Hypertension,Private,10551.36,2085.4
+5837,20,Male,12-07-2024,No Hypertension,Private,45326.26,39855.47
+5371,21,Male,12-07-2024,Stage 2 Hypertension,ICU,36455.45,31360.38
+1096,58,Female,12-07-2024,Emergency Case,Private,17726.72,4908.37
+9004,62,Female,12-07-2024,Stage 2 Hypertension,ICU,12314.66,4647.06
+5118,77,Female,12-07-2024,No Hypertension,General,9369.28,6019.63
+3504,85,Male,12-07-2024,Stage 2 Hypertension,General,21409.56,5458.91
+1441,30,Female,12-07-2024,No Hypertension,General,36523.24,13646.4
+1964,74,Female,12-07-2024,No Hypertension,ICU,33915.63,8878.05
+2146,59,Male,12-07-2024,Emergency Case,Private,19649.74,5021.69
+2940,36,Male,12-07-2024,No Hypertension,Private,20109.15,15474.94
+1993,39,Female,12-07-2024,Stage 2 Hypertension,General,23053.02,8341.43
+6038,81,Female,12-07-2024,Emergency Case,General,27456.56,10088.52
+2894,69,Male,12-07-2024,Emergency Case,Private,40027.82,5765.08
+4728,39,Female,12-07-2024,Stage 2 Hypertension,General,15923.15,7427.08
+2524,37,Male,12-07-2024,Emergency Case,ICU,23804.43,14641.27
+3417,87,Male,12-07-2024,Stage 1 Hypertension,Private,29369.35,25399.24
+6663,62,Female,12-07-2024,Stage 2 Hypertension,Private,23279.48,9807.74
+2964,70,Female,12-07-2024,No Hypertension,General,8433.7,3309.86
+8752,39,Female,12-07-2024,Stage 1 Hypertension,Private,12990.95,11552.99
+3330,89,Male,12-07-2024,Stage 2 Hypertension,Private,33833.24,16834.11
+2743,28,Male,12-07-2024,Stage 2 Hypertension,General,3740.21,1030.13
+8478,86,Female,12-07-2024,Emergency Case,ICU,35036.35,31373.87
+3068,87,Female,12-07-2024,No Hypertension,General,17413.4,14848.03
+8532,75,Male,12-07-2024,Emergency Case,General,8316.72,4538.48
+2104,52,Female,12-07-2024,Stage 2 Hypertension,Private,18067.08,11811.69
+8905,66,Female,12-07-2024,No Hypertension,General,43238.71,9185.98
+4826,34,Male,12-07-2024,Stage 1 Hypertension,Private,34246.18,27518.41
+8449,69,Male,12-07-2024,No Hypertension,Private,42277.88,6856.97
+5803,61,Male,12-07-2024,No Hypertension,ICU,47285.57,37800.29
+3979,66,Female,12-07-2024,Stage 1 Hypertension,ICU,30209.95,5075.41
+9617,44,Female,12-07-2024,Emergency Case,Private,37705.45,32682.59
+2669,54,Female,12-07-2024,Emergency Case,General,34665.56,23094.36
+9022,60,Female,12-07-2024,Stage 1 Hypertension,General,9212.42,4037.76
+1166,28,Male,12-07-2024,Emergency Case,Private,33872.64,29813.55
+7455,87,Female,12-07-2024,No Hypertension,Private,16459.64,10993.66
+2874,45,Male,12-07-2024,Emergency Case,Private,10320.37,2357.65
+6138,76,Female,12-07-2024,Stage 1 Hypertension,Private,8693.26,2745.61
+2129,43,Female,12-07-2024,Emergency Case,ICU,29300.43,7952.7
+8381,84,Male,12-07-2024,Stage 2 Hypertension,ICU,28943.54,10796.09
+4910,35,Female,12-07-2024,Emergency Case,General,8484.71,7223.19
+9900,71,Male,12-07-2024,Stage 2 Hypertension,Private,44102.27,6725.69
+8149,62,Female,12-07-2024,Emergency Case,ICU,34894.15,15938.89
+3088,61,Male,12-07-2024,No Hypertension,General,46428.06,40697.87
+7939,59,Male,12-07-2024,No Hypertension,General,43568.87,33530.22
+9337,70,Male,12-07-2024,Stage 1 Hypertension,ICU,35337.97,6086.79
+1588,68,Female,12-07-2024,Emergency Case,General,5505.12,4423.77
+8651,33,Male,12-07-2024,Stage 1 Hypertension,Private,1672.93,1144.31
+9099,56,Male,12-07-2024,No Hypertension,General,39578.07,4807.63
+8381,36,Male,12-07-2024,Stage 2 Hypertension,Private,18602.99,15275.43
+4545,42,Female,12-07-2024,No Hypertension,ICU,39829.12,28440.29
+9117,83,Female,12-07-2024,Stage 2 Hypertension,ICU,37342.62,22458.1
+6514,70,Female,12-07-2024,Stage 1 Hypertension,General,44598.6,15439.35
+3704,65,Male,12-07-2024,No Hypertension,Private,21283.7,16040.06
+2644,51,Male,12-07-2024,Emergency Case,Private,33062.82,9645.77
+8569,26,Female,12-07-2024,Stage 2 Hypertension,General,48068.48,29650.28
+6188,61,Female,12-07-2024,Stage 2 Hypertension,General,14881.55,12086.76
+4978,62,Female,12-07-2024,Stage 2 Hypertension,ICU,46684.53,23498.95
+2160,80,Female,12-07-2024,Stage 2 Hypertension,Private,2186.13,1708.07
+9785,33,Male,12-07-2024,Stage 2 Hypertension,ICU,14024.97,10458.18
+4441,76,Male,12-07-2024,No Hypertension,ICU,13092.41,10988.53
+7267,64,Female,12-07-2024,Stage 1 Hypertension,General,39078.19,23549.96
+5002,74,Male,12-07-2024,Stage 1 Hypertension,Private,16557.31,9880.76
+6000,84,Male,12-07-2024,Stage 1 Hypertension,ICU,20503.95,4435.15
+7118,32,Female,12-07-2024,Emergency Case,General,7388.38,5880.48
+9289,83,Female,12-07-2024,No Hypertension,Private,16295,4595.9
+5173,39,Male,12-07-2024,Emergency Case,General,6594.08,1831.28
+8216,36,Female,12-07-2024,No Hypertension,Private,47838.29,8969.95
+5246,64,Male,12-07-2024,Stage 1 Hypertension,General,49327.64,11359.06
+5291,38,Male,12-07-2024,Stage 1 Hypertension,Private,42754.34,16000.13
+4657,36,Female,12-07-2024,Stage 1 Hypertension,Private,25379.91,22005.88
+8483,85,Male,12-07-2024,Stage 1 Hypertension,General,8108.44,6862.56
+1916,67,Male,12-07-2024,Stage 1 Hypertension,ICU,19214.26,6905.37
+9742,86,Female,12-07-2024,Stage 2 Hypertension,Private,22851.17,6589.55
+2858,77,Female,12-07-2024,Stage 1 Hypertension,General,9556.08,5554.76
+8350,48,Male,12-07-2024,Stage 1 Hypertension,General,36766.26,4854.87
+7751,56,Male,12-07-2024,Stage 1 Hypertension,General,45266.18,27760.57
+2169,67,Male,12-07-2024,Stage 2 Hypertension,Private,9839.43,7421.29
+8019,26,Male,12-07-2024,Emergency Case,ICU,15716.36,9271.92
+2771,69,Female,12-07-2024,Stage 1 Hypertension,General,26416.43,9908.21
+9751,85,Female,12-07-2024,Stage 2 Hypertension,ICU,39579.01,16104.85
+6925,48,Female,12-07-2024,No Hypertension,General,48068.75,10534.89
+2049,72,Male,12-07-2024,Stage 2 Hypertension,ICU,37047.72,31205.65
+7248,80,Male,12-07-2024,Stage 2 Hypertension,Private,33565.69,20733.04
+8777,48,Male,12-07-2024,Emergency Case,Private,34744.06,19464
+1317,62,Female,12-07-2024,Stage 2 Hypertension,General,21279.61,6435.17
+4456,67,Male,12-07-2024,Stage 1 Hypertension,General,38519.7,22128.34
+8078,60,Female,12-07-2024,Stage 2 Hypertension,ICU,23052.24,6173.19
+5952,42,Female,12-07-2024,No Hypertension,General,39431.38,17520.35
+7548,76,Male,12-07-2024,Stage 2 Hypertension,Private,6545.41,3658.77
+7543,62,Female,12-07-2024,No Hypertension,ICU,11872.45,8573.44
+5272,52,Male,12-07-2024,Stage 1 Hypertension,Private,31650.71,9207.39
+7304,38,Female,12-07-2024,Stage 2 Hypertension,ICU,18987.06,11617.43
+7596,81,Female,12-07-2024,Stage 2 Hypertension,General,2114.66,1191.77
+7246,53,Female,12-07-2024,No Hypertension,Private,32233.78,3766.82
+8213,24,Female,12-07-2024,Emergency Case,General,20166.53,10933.94
+7054,71,Female,12-07-2024,No Hypertension,General,28309.67,20946.98
+6820,37,Male,12-07-2024,Stage 2 Hypertension,ICU,33596.88,15620.79
+6023,53,Female,12-07-2024,Stage 2 Hypertension,General,23600.84,3648.29
+1998,82,Female,12-07-2024,No Hypertension,Private,20276.59,8936.34
+2747,72,Male,12-07-2024,Stage 1 Hypertension,General,32376.43,27794.76
+7755,77,Female,12-07-2024,Stage 2 Hypertension,Private,26736.3,3553.82
+8022,87,Female,12-07-2024,No Hypertension,Private,34589.17,9611.86
+6310,86,Male,12-07-2024,No Hypertension,General,1560.28,992.52
+8007,38,Male,12-07-2024,Stage 2 Hypertension,General,10469.73,6016.81
+6363,80,Male,12-07-2024,Stage 1 Hypertension,ICU,49197.32,32108.85
+7790,67,Female,12-07-2024,Emergency Case,ICU,30943.4,10617.66
+8178,66,Male,12-07-2024,Stage 2 Hypertension,Private,31591.53,6607.19
+6546,84,Male,12-07-2024,No Hypertension,Private,41752.79,36842.42
+4150,28,Female,12-07-2024,Stage 2 Hypertension,ICU,5758.84,3244.97
+5673,30,Female,12-07-2024,Stage 1 Hypertension,Private,27046.47,19794.96
+5451,48,Male,12-07-2024,Emergency Case,Private,25132.72,13161.75
+7625,70,Male,12-07-2024,Stage 1 Hypertension,Private,43193.72,25161.74
+6169,45,Female,12-07-2024,Stage 1 Hypertension,General,6043.68,1342.84
+4644,77,Female,12-07-2024,Stage 1 Hypertension,ICU,26290.21,8971.48
+5700,57,Male,12-07-2024,Emergency Case,Private,27631.56,24213.22
+1936,73,Female,12-07-2024,No Hypertension,General,17992.22,15417.11
+4492,25,Male,12-07-2024,Emergency Case,ICU,7627.37,3976.5
+7565,72,Male,12-07-2024,No Hypertension,General,5436.12,2245.7
+8245,54,Female,12-07-2024,Stage 1 Hypertension,ICU,28839.33,7050.66
+3103,28,Male,12-07-2024,Emergency Case,ICU,11882.2,9696.63
+5712,45,Male,12-07-2024,Emergency Case,General,25110.81,8927.38
+6272,80,Female,12-07-2024,No Hypertension,ICU,43643.61,15414.57
+8564,84,Female,12-07-2024,Emergency Case,General,44513.44,9520.87
+7744,40,Male,12-07-2024,Stage 1 Hypertension,General,24150.13,13352.44
+5471,22,Male,12-07-2024,Stage 1 Hypertension,General,32636.96,15286.93
+3434,40,Female,12-07-2024,Stage 2 Hypertension,Private,20538.5,4424.45
+2480,63,Female,12-07-2024,Stage 1 Hypertension,General,32266.06,24475.69
+4788,24,Female,12-07-2024,Stage 1 Hypertension,General,31647.58,16930.5
+9849,32,Female,12-07-2024,Stage 1 Hypertension,Private,35720.77,25474.41
+6464,64,Female,12-07-2024,No Hypertension,General,35888.94,22098.17
+8269,81,Male,12-07-2024,Stage 2 Hypertension,General,7365.46,5692.99
+3546,75,Female,12-07-2024,Stage 1 Hypertension,General,14416.01,7165.67
+2121,60,Male,12-07-2024,No Hypertension,ICU,46986.77,33520.02
+6155,89,Male,12-07-2024,Stage 1 Hypertension,General,46381.2,17086.97
+5526,36,Female,12-07-2024,No Hypertension,Private,35932.04,5453.35
+7537,75,Male,12-07-2024,No Hypertension,Private,38917.43,26860.74
+6688,71,Female,12-07-2024,No Hypertension,Private,3260.85,2824.54
+3068,83,Male,12-07-2024,Stage 1 Hypertension,General,29135.23,22966.97
+1722,85,Male,12-07-2024,Stage 2 Hypertension,ICU,25613.9,7322.05
+1333,37,Female,12-07-2024,Stage 2 Hypertension,ICU,45754.34,7898.27
+5581,24,Female,12-07-2024,Emergency Case,ICU,41054.66,36221.81
+8708,79,Male,12-07-2024,Emergency Case,ICU,18981.53,8780.53
+7678,20,Male,12-07-2024,Stage 2 Hypertension,General,17355.82,11293.04
+3588,54,Female,12-07-2024,Stage 2 Hypertension,General,38666.66,26607.99
+5012,66,Female,12-07-2024,No Hypertension,General,26679.42,16162.87
+5422,72,Female,12-07-2024,Stage 1 Hypertension,Private,16442.59,12319.07
+4585,37,Female,12-07-2024,Emergency Case,ICU,19059.9,15517.6
+5978,29,Female,12-07-2024,Emergency Case,Private,42915.14,31951.96
+1832,29,Female,12-07-2024,No Hypertension,Private,34681.52,21355.06
+8428,34,Female,12-07-2024,Emergency Case,ICU,6170.19,1467.27
+9834,32,Female,12-07-2024,Stage 1 Hypertension,ICU,8145.11,5959.27
+3485,29,Female,12-07-2024,Emergency Case,Private,32170.51,12295.92
+7232,75,Male,12-07-2024,Stage 1 Hypertension,General,16513.29,13426.53
+5557,77,Male,12-07-2024,Emergency Case,ICU,35539.24,4082.84
+5462,71,Male,12-07-2024,Emergency Case,ICU,39176.29,31340.82
+6460,51,Male,12-07-2024,No Hypertension,General,39164.62,33279.37
+6260,40,Male,12-07-2024,No Hypertension,General,23781.88,12513.44
+7624,20,Female,12-07-2024,Stage 2 Hypertension,ICU,39415.46,15374.19
+1106,79,Female,12-07-2024,Stage 1 Hypertension,General,13540.99,2870.07
+6314,48,Female,12-07-2024,No Hypertension,Private,44904.08,29582.17
+5533,87,Male,12-07-2024,Stage 2 Hypertension,ICU,24353.51,19420.34
+2713,61,Female,12-07-2024,Stage 2 Hypertension,General,4833.5,2859.2
+7126,33,Male,12-07-2024,Stage 2 Hypertension,ICU,43523.72,32089.62
+1406,24,Male,12-07-2024,Stage 1 Hypertension,Private,43913.37,15514.62
+9890,22,Male,12-07-2024,No Hypertension,ICU,32237.67,18183.25
+5497,72,Female,12-07-2024,Stage 1 Hypertension,ICU,47055.64,11058.3
+2330,64,Female,12-07-2024,No Hypertension,ICU,20805.67,3170.79
+1822,67,Male,12-07-2024,Stage 1 Hypertension,ICU,27973.08,8274.44
+3536,40,Female,12-07-2024,Stage 2 Hypertension,ICU,23441.33,14222.37
+4752,47,Male,12-07-2024,Stage 1 Hypertension,General,38445.03,33857.87
+7873,81,Male,12-07-2024,No Hypertension,ICU,41978.68,16262.91
+8433,53,Female,12-07-2024,Stage 1 Hypertension,ICU,45475.13,8822.46
+3506,43,Female,12-07-2024,Stage 2 Hypertension,Private,14408.21,1908.9
+1878,60,Male,12-07-2024,Stage 1 Hypertension,Private,45259.54,26863.88
+2143,37,Male,12-07-2024,Emergency Case,General,12659.42,10224.4
+2654,24,Male,12-07-2024,Emergency Case,Private,9766,1334.44
+2269,69,Male,12-07-2024,Emergency Case,ICU,28569.08,23703.3
+5806,56,Male,12-07-2024,Emergency Case,Private,13413.45,5117.03
+3697,78,Female,12-07-2024,No Hypertension,General,12327.26,8602.32
+9864,87,Female,12-07-2024,Emergency Case,Private,2161.32,1307.78
+4792,84,Male,12-07-2024,Stage 2 Hypertension,Private,35408.87,31464.74
+1188,34,Male,12-07-2024,No Hypertension,Private,20590.11,2678.71
+8999,83,Female,12-07-2024,No Hypertension,General,45891.99,32355.94
+2235,59,Male,12-07-2024,Emergency Case,ICU,9345.66,7074.97
+4673,89,Female,12-07-2024,Stage 1 Hypertension,General,47585.61,34542.23
+9004,39,Female,12-07-2024,No Hypertension,General,40829.7,27770.75
+2317,63,Male,12-07-2024,No Hypertension,General,25961.33,19236.01
+6198,40,Male,12-07-2024,No Hypertension,General,35095.65,19388.93
+2166,63,Male,12-07-2024,Emergency Case,General,19696.69,14706.76
+7149,44,Female,12-07-2024,Stage 2 Hypertension,ICU,23509.05,12452.77
+8541,61,Male,12-07-2024,Stage 2 Hypertension,ICU,3415.48,1446.97
+2320,62,Female,12-07-2024,Stage 2 Hypertension,ICU,48983.63,12079.27
+9818,78,Male,12-07-2024,Stage 1 Hypertension,Private,17195.23,8950.5
+4598,55,Female,12-07-2024,Stage 1 Hypertension,General,49581.69,43917.19
+5479,67,Female,12-07-2024,Emergency Case,Private,24761.01,21159.02
+8953,31,Female,12-07-2024,Stage 1 Hypertension,General,49517.8,40066.2
+4467,25,Male,12-07-2024,Stage 1 Hypertension,Private,31699.03,23052.29
+3184,35,Male,12-07-2024,Stage 1 Hypertension,General,14446.51,2215.8
+8956,31,Female,12-07-2024,Stage 2 Hypertension,ICU,33344.92,5754.79
+7882,86,Female,12-07-2024,No Hypertension,Private,10434.74,2075.39
+6180,68,Male,12-07-2024,Stage 2 Hypertension,Private,7790.25,2977.19
+2496,36,Female,12-07-2024,Stage 1 Hypertension,General,29318.99,21792.85
+4527,31,Male,12-07-2024,Emergency Case,ICU,25078.87,13353.03
+5557,34,Female,12-07-2024,No Hypertension,General,35364.39,24339.87
+9702,55,Male,12-07-2024,Emergency Case,General,21922.19,3105.92
+9431,50,Male,12-07-2024,No Hypertension,General,23992.39,6306.31
+4981,27,Female,12-07-2024,Stage 2 Hypertension,General,10784.58,2544.6
+7717,73,Female,12-07-2024,Emergency Case,General,17532.92,13913.47
+4899,31,Male,12-07-2024,No Hypertension,General,49394.94,11704.68
+3573,86,Male,12-07-2024,Emergency Case,ICU,7250.23,2493.57
+3167,67,Male,12-07-2024,No Hypertension,ICU,3199,1952.67
+6539,63,Female,12-07-2024,Emergency Case,ICU,13066.05,6062.55
+3085,59,Female,12-07-2024,No Hypertension,ICU,38662.89,14733.81
+2291,23,Female,12-07-2024,Emergency Case,Private,15891.32,10209.57
+5339,35,Female,12-07-2024,Stage 1 Hypertension,ICU,49164.87,22169.86
+4727,57,Female,12-07-2024,Emergency Case,Private,17694.99,9507.45
+6700,69,Male,12-07-2024,Emergency Case,Private,49195.38,34130.1
+1152,49,Female,12-07-2024,No Hypertension,Private,40205.15,25899.41
+5820,87,Male,12-07-2024,Stage 2 Hypertension,Private,12353.02,5190.6
+7389,50,Male,12-07-2024,Emergency Case,ICU,2426.75,1433.58
+9445,76,Male,12-07-2024,Stage 1 Hypertension,ICU,41437.37,7075.79
+1853,25,Male,12-07-2024,No Hypertension,ICU,12644.47,8017.47
+2638,65,Female,12-07-2024,Emergency Case,Private,16140.92,2432.36
+1027,38,Male,12-07-2024,No Hypertension,Private,26667.05,3147.75
+8359,63,Male,12-07-2024,Emergency Case,ICU,26765.25,16225.98
+4249,65,Male,12-07-2024,Emergency Case,Private,26594.9,4759.12
+7209,63,Female,12-07-2024,Emergency Case,ICU,19654.36,2349.3
+9727,61,Male,12-07-2024,No Hypertension,General,30161.48,14720.28
+1715,59,Male,12-07-2024,Emergency Case,ICU,34460.94,13453.5
+7798,80,Male,12-07-2024,Stage 2 Hypertension,General,32241.16,6377.99
+2612,47,Male,12-07-2024,Emergency Case,General,6452.62,1918.51
+1241,38,Male,12-07-2024,Stage 1 Hypertension,General,33083.14,22676.14
+1035,40,Female,12-07-2024,Stage 1 Hypertension,ICU,48853.99,22662.03
+9689,48,Female,12-07-2024,No Hypertension,Private,32986.18,15817.87
+8616,57,Female,12-07-2024,Emergency Case,ICU,7936.28,3612.31
+3881,52,Male,12-07-2024,No Hypertension,Private,19568.03,8487.15
+4824,25,Male,12-07-2024,Stage 1 Hypertension,ICU,27710.82,4989.2
+8385,77,Male,12-07-2024,No Hypertension,Private,22738.73,10926.9
+8956,50,Male,12-07-2024,Stage 1 Hypertension,ICU,31732.82,23960.68
+6085,50,Female,12-07-2024,No Hypertension,Private,2799.33,1524.66
+4257,41,Female,12-07-2024,No Hypertension,General,5838.93,4771.39
+1960,73,Female,12-07-2024,Stage 2 Hypertension,Private,32821.15,25808.51
+2989,71,Male,12-07-2024,Stage 2 Hypertension,Private,5043,3746.09
+1841,59,Male,12-07-2024,Stage 2 Hypertension,General,40889.27,26508.49
+1828,20,Male,12-07-2024,No Hypertension,Private,31280.27,17103.73
+2674,21,Female,12-07-2024,Stage 2 Hypertension,Private,4917.88,2592.47
+1053,26,Female,12-07-2024,Stage 1 Hypertension,ICU,30166.33,15811.96
+9889,65,Female,12-07-2024,Stage 2 Hypertension,ICU,21629.79,16416.33
+1888,56,Female,12-07-2024,Stage 1 Hypertension,General,15171.21,8814.26
+2876,23,Female,12-07-2024,Stage 2 Hypertension,ICU,45976.21,11218.21
+4608,73,Male,12-07-2024,Stage 1 Hypertension,General,16847.17,11386.28
+9540,26,Male,12-07-2024,Emergency Case,ICU,16507.94,13250.16
+3444,77,Male,12-07-2024,No Hypertension,Private,1009.03,890.19
+2976,56,Male,12-07-2024,Emergency Case,General,30617.57,12433.99
+2591,24,Female,12-07-2024,Emergency Case,ICU,28794.95,13331.09
+3144,75,Male,12-07-2024,Stage 1 Hypertension,ICU,17134.95,4589.34
+6764,69,Female,12-07-2024,Stage 2 Hypertension,ICU,2482.94,515.67
+1659,42,Male,12-07-2024,Stage 2 Hypertension,Private,15813.6,4179.87
+3236,24,Female,12-07-2024,No Hypertension,Private,38748.02,11680.45
+5325,63,Male,12-07-2024,No Hypertension,General,14076.27,7504.73
+8787,36,Female,12-07-2024,No Hypertension,General,15199.37,10291.83
+1231,66,Female,12-07-2024,No Hypertension,Private,22332.33,18579.41
+1727,62,Female,12-07-2024,Stage 2 Hypertension,ICU,23020.52,19533.65
+7211,63,Female,12-07-2024,Stage 1 Hypertension,ICU,6760.14,1149.76
+4346,57,Male,12-07-2024,Stage 1 Hypertension,Private,12143.97,2317.63
+6183,37,Male,12-07-2024,Stage 1 Hypertension,ICU,31009.97,27443.86
+6763,35,Female,12-07-2024,Stage 1 Hypertension,General,36495.44,9150.63
+1520,45,Male,12-07-2024,Stage 2 Hypertension,ICU,26636.83,18997.56
+9318,78,Male,12-07-2024,Stage 2 Hypertension,Private,36983.69,13440.94
+3662,59,Male,12-07-2024,Emergency Case,General,37380.92,8328.01
+8244,63,Female,12-07-2024,Stage 2 Hypertension,General,21097.42,5616.7
+2880,53,Male,12-07-2024,Stage 2 Hypertension,Private,19845.16,14128.23
+4566,54,Male,12-07-2024,Stage 2 Hypertension,General,13122.21,10691.29
+3594,66,Female,12-07-2024,No Hypertension,Private,14614.59,11428.86
+5871,35,Male,12-07-2024,Emergency Case,Private,15922.96,5988.85
+6413,39,Female,12-07-2024,Stage 2 Hypertension,General,30099.98,6296.95
+7868,58,Male,12-07-2024,Stage 1 Hypertension,ICU,19728.15,13167.94
+3441,23,Female,12-07-2024,Stage 1 Hypertension,ICU,8559.1,3343.76
+9320,34,Female,12-07-2024,Emergency Case,General,31663.83,4554.82
+5088,58,Female,12-07-2024,Stage 1 Hypertension,ICU,20838.47,13950.31
+2832,23,Female,12-07-2024,Stage 1 Hypertension,Private,15934.39,5227.3
+1444,66,Male,12-07-2024,No Hypertension,Private,27258.39,3352.99
+1803,81,Male,12-07-2024,Stage 2 Hypertension,Private,22366.83,9911.25
+4995,25,Female,12-07-2024,Stage 1 Hypertension,ICU,7373.63,4743.49
+6728,80,Female,12-07-2024,Stage 2 Hypertension,General,15267.79,7626.77
+9701,34,Male,12-07-2024,Stage 1 Hypertension,ICU,48933.97,8062.71
+5161,64,Male,12-07-2024,Stage 2 Hypertension,ICU,22588.17,17268.59
+8253,27,Female,12-07-2024,No Hypertension,ICU,45747.01,8137.48
+4681,49,Male,12-07-2024,Emergency Case,General,31183.85,6734.25
+8140,85,Male,12-07-2024,Stage 1 Hypertension,Private,24593.28,3962.48
+7572,50,Male,12-07-2024,Stage 1 Hypertension,Private,30812.26,23698.99
+5377,39,Male,12-07-2024,Emergency Case,ICU,17908.71,10162.49
+7498,56,Female,12-07-2024,Stage 1 Hypertension,General,35970.19,31612.9
+6718,29,Female,12-07-2024,Emergency Case,ICU,46718.47,24587.2
+3414,77,Female,12-07-2024,Stage 1 Hypertension,General,42062.71,8813.89
+6279,89,Male,12-07-2024,Stage 2 Hypertension,ICU,12656.04,2678.7
+2293,70,Female,12-07-2024,Stage 2 Hypertension,ICU,4625.86,1945.31
+2633,34,Male,12-07-2024,Emergency Case,General,38884.4,13509.02
+3749,59,Male,12-07-2024,No Hypertension,ICU,8021.46,1438.12
+8066,30,Male,12-07-2024,No Hypertension,General,19555.25,9962.03
+5065,29,Female,12-07-2024,Emergency Case,ICU,41523.49,22837.5
+3579,64,Female,12-07-2024,No Hypertension,Private,25561.32,20568.63
+1009,25,Female,12-07-2024,Emergency Case,ICU,30512.78,7355.38
+9856,43,Female,12-07-2024,Stage 1 Hypertension,ICU,3601.18,395.91
+7049,83,Male,12-07-2024,Emergency Case,Private,49423.93,11732.73
+6296,70,Male,12-07-2024,Stage 1 Hypertension,General,39147.83,13894.45
+4269,44,Female,12-07-2024,Emergency Case,General,31901.78,26680.96
+5119,42,Female,12-07-2024,Stage 1 Hypertension,Private,5503.35,3238.34
+5333,53,Male,12-07-2024,Stage 1 Hypertension,General,19084.36,13935.84
+9005,58,Male,12-07-2024,Stage 1 Hypertension,Private,39093.51,5257.78
+3718,81,Male,12-07-2024,Stage 2 Hypertension,Private,1769.68,1366.73
+1745,45,Female,12-07-2024,Stage 2 Hypertension,Private,33468,15653.82
+7684,29,Male,12-07-2024,Emergency Case,ICU,43035.06,4988.93
+8305,75,Male,12-07-2024,No Hypertension,General,49372.27,9660.52
+9346,76,Female,12-07-2024,Stage 1 Hypertension,ICU,36409.69,32206.26
+5891,61,Female,12-07-2024,Stage 2 Hypertension,ICU,6683.72,1929.93
+5634,37,Male,12-07-2024,No Hypertension,ICU,38018.71,26563.65
+4945,38,Female,12-07-2024,No Hypertension,Private,19757.15,6934.31
+1626,72,Male,12-07-2024,Stage 1 Hypertension,General,29925.46,6330.39
+9786,55,Male,12-07-2024,Emergency Case,ICU,24668.29,21810.4
+6325,71,Female,12-07-2024,Emergency Case,Private,9770.17,6124.32
+8025,86,Male,12-07-2024,No Hypertension,ICU,47223.33,18223.15
+1319,78,Female,12-07-2024,Stage 2 Hypertension,ICU,19741.86,12158.79
+7658,23,Female,12-07-2024,No Hypertension,ICU,42752.06,26425.57
+8711,25,Female,12-07-2024,Emergency Case,ICU,28327.35,6517.5
+9308,31,Female,12-07-2024,Stage 2 Hypertension,ICU,8354.4,3248.62
+4335,59,Male,12-07-2024,Stage 1 Hypertension,General,30987.1,27134.15
+5460,76,Male,12-07-2024,No Hypertension,Private,23345.4,4051.97
+7622,78,Male,12-07-2024,Emergency Case,General,26120.49,3958.35
+8962,29,Male,12-07-2024,Stage 2 Hypertension,General,20241.25,4874.68
+9115,81,Female,12-07-2024,Stage 1 Hypertension,General,45984.06,35553.88
+4595,88,Male,12-07-2024,Stage 1 Hypertension,ICU,40065.46,7659.45
+6403,44,Male,12-07-2024,Emergency Case,Private,5333.87,2384.13
+9837,37,Female,12-07-2024,No Hypertension,General,25355.67,3879.36
+6967,36,Male,12-07-2024,Stage 2 Hypertension,Private,47537.94,8076.77
+8618,87,Female,12-07-2024,Stage 1 Hypertension,General,29854.25,17009.28
+8668,89,Male,12-07-2024,No Hypertension,Private,12416.71,5334.53
+9494,80,Male,12-07-2024,No Hypertension,Private,46220.36,8821.01
+9728,76,Male,12-07-2024,Stage 2 Hypertension,ICU,26508.31,6486.02
+3073,48,Female,12-07-2024,Stage 1 Hypertension,General,27681.82,9734.24
+3471,37,Male,12-07-2024,Stage 2 Hypertension,Private,2175.35,1527.32
+6153,22,Male,12-07-2024,No Hypertension,ICU,3585.94,1220.01
+2232,42,Male,12-07-2024,No Hypertension,ICU,1735.7,791.84
+1470,27,Male,12-07-2024,Emergency Case,Private,3636.19,669.56
+3340,44,Male,12-07-2024,Stage 2 Hypertension,ICU,36589.35,19858
+9698,23,Male,12-07-2024,Emergency Case,Private,33593.85,6262.88
+6067,74,Female,12-07-2024,Stage 2 Hypertension,Private,43572.11,9514.26
+2169,57,Male,12-07-2024,Stage 1 Hypertension,Private,7579.59,5895.92
+5136,70,Male,12-07-2024,Stage 2 Hypertension,General,38795.83,21639.08
+6934,30,Male,12-07-2024,Stage 2 Hypertension,Private,6764.89,4490.43
+7735,65,Female,12-07-2024,Stage 2 Hypertension,Private,41186.56,13317.13
+8508,84,Male,12-07-2024,Emergency Case,ICU,43266.8,13919.63
+7570,68,Female,12-07-2024,Emergency Case,Private,43503.11,28827.06
+4908,78,Male,12-07-2024,No Hypertension,Private,2221.8,1896.25
+8451,59,Female,12-07-2024,Emergency Case,Private,40106.81,8838.66
+3266,46,Female,12-07-2024,Stage 1 Hypertension,ICU,41275.06,4337.17
+3547,66,Male,12-07-2024,Emergency Case,Private,11228.17,1688.65
+5097,26,Female,12-07-2024,Stage 1 Hypertension,Private,4573.06,1973.72
+7302,26,Male,12-07-2024,Stage 2 Hypertension,General,44929.11,36279.05
+1043,90,Male,12-07-2024,No Hypertension,General,35464.35,28041.48
+8119,26,Male,12-07-2024,Stage 2 Hypertension,ICU,10894.67,3774.63
+3591,42,Female,12-07-2024,Stage 2 Hypertension,General,29235.39,8434.74
+1434,54,Female,12-07-2024,Stage 1 Hypertension,ICU,24783.14,16275.23
+8749,62,Male,12-07-2024,Emergency Case,ICU,19317.22,16923.98
+7916,20,Male,12-07-2024,Stage 2 Hypertension,Private,18427.13,12049.25
+7141,82,Female,12-07-2024,Stage 2 Hypertension,ICU,46872.92,35189.49
+8460,58,Female,12-07-2024,Emergency Case,General,8112.34,6968.25
+2124,63,Female,12-07-2024,Stage 1 Hypertension,ICU,11590.85,9690.86
+8692,46,Male,12-07-2024,No Hypertension,ICU,27833.02,23041.04
+3724,38,Male,12-07-2024,Emergency Case,General,14294.21,4811.89
+9561,36,Male,12-07-2024,Emergency Case,ICU,34394.32,4179.59
+7594,40,Female,12-07-2024,No Hypertension,General,21376.92,14842.22
+6139,28,Female,12-07-2024,Emergency Case,ICU,13254.03,10241.41
+6383,37,Male,12-07-2024,Stage 2 Hypertension,General,6091.46,4618.34
+1090,73,Female,12-07-2024,No Hypertension,Private,46642.51,35793.2
+5022,41,Female,12-07-2024,Emergency Case,General,4490.9,1127.34
+2729,30,Male,12-07-2024,Stage 1 Hypertension,ICU,16638.34,3472.92
+3426,79,Female,12-07-2024,Emergency Case,General,38131.05,11744.59
+2827,50,Female,12-07-2024,No Hypertension,Private,9472.22,6877.46
+4919,84,Female,12-07-2024,Stage 1 Hypertension,Private,49756.19,11476.12
+3870,50,Male,12-07-2024,Stage 2 Hypertension,General,27762.15,16656.49
+3296,74,Male,12-07-2024,No Hypertension,General,7926.02,3776.92
+2535,89,Female,12-07-2024,No Hypertension,ICU,41924.47,10116.15
+8110,89,Male,12-07-2024,Emergency Case,General,35695.68,30426.87
+7888,47,Female,12-07-2024,Stage 2 Hypertension,Private,31696.19,25339.25
+9056,29,Female,12-07-2024,Stage 1 Hypertension,ICU,41034.65,20343.05
+4683,73,Female,12-07-2024,Stage 1 Hypertension,General,42158.17,24951.83
+1452,40,Female,12-07-2024,No Hypertension,General,35109.59,28983.13
+9423,28,Female,12-07-2024,No Hypertension,ICU,15936.12,7439.99
+2052,80,Female,12-07-2024,Stage 1 Hypertension,General,49950.36,17025.97
+6661,33,Male,12-07-2024,No Hypertension,Private,45717.85,34810.25
+8988,85,Male,12-07-2024,Emergency Case,Private,30045.05,6450.49
+6590,83,Female,12-07-2024,No Hypertension,Private,44714.64,8508.14
+5342,90,Male,12-07-2024,Stage 1 Hypertension,ICU,7477.26,2697.63
+7883,87,Male,12-07-2024,No Hypertension,ICU,16080.85,7846.16
+4993,45,Female,12-07-2024,Emergency Case,Private,5135.67,3531.21
+5374,78,Female,12-07-2024,No Hypertension,Private,9173.66,5254.98
+3385,81,Male,12-07-2024,Stage 2 Hypertension,Private,46212.07,21378.14
+4143,43,Female,12-07-2024,Emergency Case,ICU,22866.65,20168.82
+9824,58,Male,12-07-2024,No Hypertension,ICU,37561.38,32901.47
+5781,32,Female,12-07-2024,Stage 2 Hypertension,General,13801.38,8638.9
+6439,38,Female,12-07-2024,Stage 2 Hypertension,Private,5815.56,4251.42
+5573,25,Female,12-07-2024,Stage 1 Hypertension,Private,41664.78,13826.95
+7745,56,Female,12-07-2024,Emergency Case,ICU,23128.87,5726.64
+2442,83,Male,12-07-2024,Stage 1 Hypertension,ICU,16312.49,10574.5
+3977,84,Male,12-07-2024,Emergency Case,Private,18326.18,5154.41
+4044,82,Female,12-07-2024,Stage 1 Hypertension,ICU,44629.7,28550.62
+5334,23,Male,12-07-2024,Stage 1 Hypertension,General,33461.89,21418.59
+2084,32,Male,12-07-2024,Stage 2 Hypertension,Private,11482.48,8168.43
+6039,51,Female,12-07-2024,No Hypertension,Private,36345.62,19214.74
+8744,36,Male,12-07-2024,No Hypertension,Private,41090.42,24211.4
+2395,86,Female,12-07-2024,Stage 1 Hypertension,Private,8311.61,1018.32
+8239,33,Male,12-07-2024,Emergency Case,General,7738.12,2793.81
+4138,77,Female,12-07-2024,Emergency Case,ICU,32823.12,23018.45
+9085,90,Male,12-07-2024,No Hypertension,Private,14521.9,2487.79
+4483,65,Male,12-07-2024,Stage 1 Hypertension,ICU,13450.37,2644.29
+8461,44,Female,12-07-2024,Stage 2 Hypertension,Private,33932.43,26048.85
+4997,84,Male,12-07-2024,Emergency Case,General,23311.55,7229.88
+5554,83,Female,12-07-2024,Emergency Case,General,21344.05,4363.37
+4180,90,Female,12-07-2024,No Hypertension,General,48720.69,18265.02
+2527,69,Female,12-07-2024,No Hypertension,General,1695.95,1335.84
+5941,35,Male,12-07-2024,No Hypertension,General,30120.09,11842.33
+2647,28,Male,12-07-2024,Emergency Case,General,27849.5,8614.75
+4727,88,Female,12-07-2024,Stage 1 Hypertension,ICU,47573.96,37733.56
+7965,45,Female,12-07-2024,Stage 2 Hypertension,General,15665.43,9760.35
+5847,37,Female,12-07-2024,Stage 1 Hypertension,ICU,35302.7,29141.53
+6511,55,Female,12-07-2024,No Hypertension,ICU,6190.42,3053.85
+5728,71,Female,12-07-2024,Stage 2 Hypertension,ICU,24848.37,8197.09
+5349,69,Male,12-07-2024,No Hypertension,ICU,9765.05,8008.7
+4848,66,Male,12-07-2024,Stage 2 Hypertension,Private,33010.57,14247.73
+3091,73,Male,12-07-2024,Stage 2 Hypertension,ICU,41920.18,24234.85
+5304,22,Female,12-07-2024,Stage 1 Hypertension,ICU,15790.24,12283.12
+5889,80,Female,12-07-2024,Stage 1 Hypertension,Private,38774.17,27772.58
+7658,24,Female,12-07-2024,Stage 2 Hypertension,General,7457.97,5746.27
+4770,71,Female,12-07-2024,Emergency Case,Private,39061.82,8168.75
+8555,30,Male,12-07-2024,No Hypertension,Private,13968.58,12232.73
+5386,66,Male,12-07-2024,Emergency Case,Private,28594.09,21001.83
+5526,62,Male,12-07-2024,Stage 2 Hypertension,ICU,22569.07,6555.45
+2776,63,Male,12-07-2024,Stage 2 Hypertension,General,35919.09,19423.89
+8935,63,Male,12-07-2024,Stage 1 Hypertension,Private,37868.96,17100.88
+3615,29,Male,12-07-2024,Emergency Case,ICU,18951.35,4822.63
+4750,67,Female,12-07-2024,No Hypertension,Private,42493.39,18966.01
+8238,24,Male,12-07-2024,Emergency Case,Private,24309.89,4105.03
+7818,90,Female,12-07-2024,Emergency Case,General,29318.64,11114.74
+5345,59,Male,12-07-2024,Emergency Case,General,16457.34,13155.33
+6446,85,Male,12-07-2024,No Hypertension,General,19610.24,11208.91
+9669,52,Male,12-07-2024,Stage 1 Hypertension,Private,40742.64,34650.46
+6930,51,Female,12-07-2024,No Hypertension,General,42930.3,4829.84
+8177,34,Male,12-07-2024,Emergency Case,ICU,7608.67,3046.71
+9288,75,Female,12-07-2024,No Hypertension,Private,49788.6,9866.48
+8811,47,Male,12-07-2024,Stage 2 Hypertension,Private,31636.32,23271.14
+1475,38,Male,12-07-2024,No Hypertension,General,44710.86,37500.24
+5033,27,Male,12-07-2024,Stage 1 Hypertension,ICU,44961.59,10800.4
+6559,48,Male,12-07-2024,Stage 2 Hypertension,ICU,11241.47,9144.46
+8434,35,Male,12-07-2024,Stage 1 Hypertension,Private,24291.38,4364.74
+5978,79,Male,12-07-2024,Stage 2 Hypertension,ICU,8189.54,2918.64
+2680,66,Female,12-07-2024,Stage 2 Hypertension,Private,30015.99,19956.05
+9518,64,Female,12-07-2024,No Hypertension,Private,19820.28,10519.21
+9138,45,Female,12-07-2024,Stage 2 Hypertension,ICU,42358.41,13051.74
+3847,30,Male,12-07-2024,Stage 1 Hypertension,Private,19091.92,2210.26
+2679,57,Female,12-07-2024,Stage 1 Hypertension,ICU,31038.92,16379.27
+4697,43,Male,12-07-2024,Stage 1 Hypertension,ICU,10587.66,7344.08
+9837,84,Female,12-07-2024,Stage 1 Hypertension,Private,12109.17,10593.82
+7547,68,Male,12-07-2024,No Hypertension,ICU,9693.54,988.33
+5563,23,Male,12-07-2024,Emergency Case,ICU,29567.24,15519.77
+4470,87,Female,12-07-2024,Stage 2 Hypertension,ICU,3416.24,1231.72
+1006,39,Male,12-07-2024,Emergency Case,General,23473.49,7767.55
+3045,49,Male,12-07-2024,Emergency Case,General,2992,1896.49
+4404,40,Male,12-07-2024,Stage 1 Hypertension,Private,5375.08,3324.31
+8454,61,Female,12-07-2024,Stage 2 Hypertension,Private,43471.86,18444.6
+5786,50,Male,12-07-2024,No Hypertension,General,46612.3,25419.24
+4111,26,Female,12-07-2024,Emergency Case,ICU,46391.15,36570.43
+1771,47,Female,12-07-2024,No Hypertension,ICU,28259.83,22877.24
+9280,48,Female,12-07-2024,Emergency Case,General,28785.11,5918.85
+2646,53,Female,12-07-2024,Stage 1 Hypertension,ICU,42965.6,18491.06
+5708,78,Male,12-07-2024,Stage 1 Hypertension,Private,41937.5,5330.48
+8622,47,Male,12-07-2024,Stage 1 Hypertension,Private,9743.67,7152.96
+9090,79,Male,12-07-2024,Stage 1 Hypertension,Private,21859.5,8076.44
+2113,59,Female,12-07-2024,Stage 2 Hypertension,General,2443.83,461.33
+8843,90,Female,12-07-2024,No Hypertension,ICU,9632.53,4719.59
+2746,40,Male,12-07-2024,Emergency Case,Private,5563.19,2659.39
+2588,74,Female,12-07-2024,Emergency Case,ICU,3672.36,1804.49
+7180,82,Male,12-07-2024,Stage 1 Hypertension,ICU,24254.89,9696.23
+1514,67,Female,12-07-2024,No Hypertension,General,16716.18,2469.34
+4680,76,Female,12-07-2024,Stage 1 Hypertension,ICU,42837.64,28624.01
+1488,36,Female,12-07-2024,No Hypertension,General,4267.31,2638.2
+8484,87,Female,12-07-2024,Stage 2 Hypertension,ICU,28995.88,7118.82
+3496,28,Male,12-07-2024,Stage 1 Hypertension,General,22744.93,17665.74
+3240,88,Male,12-07-2024,Stage 2 Hypertension,Private,24621.25,20583.15
+4986,60,Female,12-07-2024,No Hypertension,ICU,31230.16,13227.69
+9270,77,Female,12-07-2024,Stage 2 Hypertension,General,6355.81,3828.72
+8916,32,Male,12-07-2024,Stage 2 Hypertension,ICU,8293.86,2318.88
+9167,88,Male,12-07-2024,Emergency Case,ICU,36621.61,10857.18
+6502,23,Male,12-07-2024,No Hypertension,ICU,9815.45,8333.84
+3223,89,Female,12-07-2024,Emergency Case,Private,40177.23,31557.29
+7267,79,Female,12-07-2024,Stage 2 Hypertension,ICU,20384.95,8119.98
+2193,80,Female,12-07-2024,Stage 2 Hypertension,General,9734.17,7407.69
+9821,59,Female,12-07-2024,Stage 2 Hypertension,ICU,39762.26,18146.16
+1845,33,Female,12-07-2024,No Hypertension,ICU,4009.47,1889.77
+2200,29,Female,12-07-2024,Stage 2 Hypertension,ICU,35551.68,13373.88
+1645,42,Male,12-07-2024,No Hypertension,General,46817.07,29910.87
+7939,34,Male,12-07-2024,Stage 2 Hypertension,ICU,34718.92,5220.32
+4090,22,Female,12-07-2024,Stage 1 Hypertension,ICU,1581.29,694.23
+9883,74,Male,12-07-2024,Stage 2 Hypertension,General,17344.91,2188.43
+1986,58,Female,12-07-2024,Emergency Case,ICU,49146.43,30912.71
+3621,38,Male,12-07-2024,Stage 1 Hypertension,Private,2849.08,2045.78
+6280,74,Female,12-07-2024,Emergency Case,ICU,12996.43,10193
+2684,55,Female,12-07-2024,Stage 1 Hypertension,ICU,3049.49,1000.83
+6873,46,Male,12-07-2024,No Hypertension,ICU,23880.82,13891.3
+7396,67,Female,12-07-2024,Stage 2 Hypertension,Private,5880.58,4219.13
+8657,50,Female,12-07-2024,Emergency Case,General,37386.65,30349.78
+9041,67,Female,12-07-2024,No Hypertension,General,23323.62,13190.32
+8633,52,Female,12-07-2024,Emergency Case,Private,1553.57,1178.62
+7693,55,Male,12-07-2024,Emergency Case,General,41216.91,22852.28
+4114,52,Female,12-07-2024,Stage 1 Hypertension,Private,7053.67,3997.63
+8342,76,Female,12-07-2024,Emergency Case,Private,34539.42,10996.6
+1606,41,Female,12-07-2024,Stage 2 Hypertension,General,43059.43,27117.91
+7227,58,Male,12-07-2024,Stage 2 Hypertension,General,37710.52,24928.07
+6654,84,Female,12-07-2024,No Hypertension,Private,27093.52,8221.39
+9165,36,Female,12-07-2024,Stage 2 Hypertension,Private,40584.19,15858.17
+2530,72,Female,12-07-2024,Stage 1 Hypertension,Private,8264.55,6872.21
+8135,89,Male,12-07-2024,No Hypertension,General,1747.58,633.48
+5073,64,Male,12-07-2024,No Hypertension,ICU,10986.27,2407.92
+4770,61,Male,12-07-2024,Stage 2 Hypertension,General,39483.7,15569.85
+4886,62,Female,12-07-2024,Stage 2 Hypertension,Private,46711.79,39167.36
+8612,56,Female,12-07-2024,Stage 2 Hypertension,General,26825.58,18682.74
+1757,88,Female,12-07-2024,Emergency Case,Private,46098.85,18689.19
+2375,28,Male,12-07-2024,No Hypertension,ICU,11204.86,8422.24
+2389,43,Female,12-07-2024,No Hypertension,General,31368.54,27230.28
+1653,38,Male,12-07-2024,Stage 1 Hypertension,ICU,28050.45,13470.24
+7615,48,Male,12-07-2024,Emergency Case,ICU,14729.5,8768.57
+6573,65,Male,12-07-2024,Emergency Case,General,39852.31,23981.26
+8611,81,Female,12-07-2024,Stage 1 Hypertension,ICU,21938.87,14266.29
+3900,79,Male,12-07-2024,No Hypertension,ICU,30096.48,8737.74
+4139,67,Female,12-07-2024,No Hypertension,Private,26640.03,14890.73
+4073,83,Female,12-07-2024,Stage 2 Hypertension,Private,2730.99,1159.83
+6050,39,Female,12-07-2024,No Hypertension,General,43489.32,5995.23
+2312,56,Female,12-07-2024,Emergency Case,General,44055.19,37722.6
+6977,32,Male,12-07-2024,Stage 2 Hypertension,ICU,32292.59,4519.88
+5010,39,Female,12-07-2024,Stage 2 Hypertension,Private,8750.65,6469.71
+4020,28,Female,12-07-2024,No Hypertension,ICU,6328.49,3974.69
+8886,87,Female,12-07-2024,Emergency Case,Private,43349.83,20973.79
+2133,30,Male,12-07-2024,Stage 1 Hypertension,General,22835.2,16633.01
+9199,73,Male,12-07-2024,No Hypertension,ICU,39657.49,30748.42
+3369,71,Female,12-07-2024,Stage 1 Hypertension,General,46763.15,24203.02
+9977,37,Female,12-07-2024,Stage 2 Hypertension,Private,13402.44,9957.32
+6813,23,Male,12-07-2024,No Hypertension,ICU,35268.91,20189.54
+1339,85,Male,12-07-2024,Stage 2 Hypertension,General,12600.75,6703.07
+8690,79,Male,12-07-2024,Emergency Case,General,41279.13,27763.46
+3851,82,Female,12-07-2024,No Hypertension,Private,7446.98,5080.95
+7216,82,Female,12-07-2024,Stage 2 Hypertension,Private,18263.88,8053.81
+3564,45,Female,12-07-2024,Stage 1 Hypertension,ICU,3603.24,1688.94
+7807,63,Male,12-07-2024,No Hypertension,General,40169.23,27290.48
+6313,24,Male,12-07-2024,No Hypertension,General,16908.05,10867.11
+4450,30,Female,12-07-2024,Emergency Case,Private,10052.58,6049.85
+5335,48,Male,12-07-2024,No Hypertension,ICU,49334.66,40864.45
+5689,56,Female,12-07-2024,Stage 1 Hypertension,General,39265.91,6724.25
+4335,75,Male,12-07-2024,Stage 1 Hypertension,General,24184.87,13249.92
+5425,33,Female,12-07-2024,Stage 1 Hypertension,ICU,11122.29,6454.39
+9922,46,Male,12-07-2024,Stage 1 Hypertension,ICU,46299.62,17206.4
+5352,83,Male,12-07-2024,Stage 2 Hypertension,Private,49875.35,22383.7
+7690,73,Male,12-07-2024,Stage 2 Hypertension,Private,49199.75,23312.63
+2494,26,Male,12-07-2024,Emergency Case,ICU,7962.29,2152.7
+1128,41,Female,12-07-2024,Emergency Case,ICU,44126.46,7242.75
+8491,36,Male,12-07-2024,Stage 2 Hypertension,Private,11131.11,3120.6
+1224,56,Female,12-07-2024,Emergency Case,Private,14767.62,7216.55
+1534,31,Female,12-07-2024,Stage 1 Hypertension,Private,12526.82,7145.19
+3973,51,Female,12-07-2024,Stage 1 Hypertension,Private,6545.05,4337.18
+1387,77,Male,12-07-2024,Stage 2 Hypertension,General,23606.01,2441.7
+5262,22,Male,12-07-2024,Stage 2 Hypertension,General,14742.54,3010.05
+3522,35,Female,12-07-2024,Stage 2 Hypertension,Private,22886.01,9740.41
+2245,26,Male,12-07-2024,Stage 2 Hypertension,General,1201.38,325.83
+6091,90,Female,12-07-2024,Stage 1 Hypertension,Private,7494.4,6527.84
+2512,85,Male,12-07-2024,Stage 2 Hypertension,ICU,18603.81,6199.04
+1977,58,Male,12-07-2024,Stage 1 Hypertension,General,4515.55,3295.09
+9238,85,Female,12-07-2024,Emergency Case,ICU,12574.03,9180.97
+3780,40,Female,12-07-2024,Stage 2 Hypertension,ICU,27819.74,4253.43
+4505,37,Male,12-07-2024,Stage 1 Hypertension,Private,40178.65,26034.71
+6168,76,Female,12-07-2024,No Hypertension,Private,36567.52,7674.19
+6096,89,Male,12-07-2024,Stage 1 Hypertension,Private,46963.17,12849.05
+2402,66,Male,12-07-2024,No Hypertension,ICU,38031.4,33944.13
+8814,50,Male,12-07-2024,Stage 2 Hypertension,General,34605.95,7739.41
+4295,78,Male,12-07-2024,No Hypertension,General,5168.87,1865.48
+3725,44,Male,12-07-2024,Stage 2 Hypertension,ICU,33163.34,22349.07
+7592,22,Male,12-07-2024,Stage 1 Hypertension,ICU,21559.5,8586.39
+2612,65,Male,12-07-2024,Stage 2 Hypertension,Private,6878.88,3280.35
+4443,32,Female,12-07-2024,No Hypertension,ICU,1281.78,562.79
+4630,66,Female,12-07-2024,Emergency Case,ICU,11965.93,5751.56
+5438,53,Female,12-07-2024,Stage 2 Hypertension,Private,18220.6,2592.46
+4872,28,Female,12-07-2024,No Hypertension,ICU,20043.61,4132.38
+4920,44,Male,12-07-2024,Stage 1 Hypertension,Private,42720.82,10286.67
+9976,38,Female,12-07-2024,Stage 2 Hypertension,General,31819.95,20854.67
+7211,22,Male,12-07-2024,No Hypertension,Private,30164.4,4042.44
+4804,56,Male,12-07-2024,Emergency Case,ICU,47824.68,24538.49
+8758,57,Male,12-07-2024,Stage 1 Hypertension,General,25502.66,9646.87
+9375,68,Female,12-07-2024,Stage 1 Hypertension,General,30405,24142.2
+4777,47,Female,12-07-2024,Stage 1 Hypertension,General,38629.13,33903.17
+2290,82,Female,12-07-2024,Stage 1 Hypertension,Private,3475.47,2406.18
+1887,84,Female,12-07-2024,Stage 1 Hypertension,General,34995.97,24110.23
+2982,75,Male,12-07-2024,Emergency Case,ICU,32960.17,16068.95
+7065,88,Female,12-07-2024,Emergency Case,General,23477.31,17254.83
+9031,54,Female,12-07-2024,Stage 1 Hypertension,ICU,14555.83,2740.18
+4613,34,Male,12-07-2024,Emergency Case,General,33951.17,18363.86
+6016,55,Male,12-07-2024,No Hypertension,ICU,45730.22,22299.26
+4733,72,Male,12-07-2024,Emergency Case,ICU,10283.56,2193.2
+3068,24,Female,12-07-2024,Emergency Case,General,24650.5,21175.6
+7325,49,Male,12-07-2024,No Hypertension,General,47853,41796.92
+9229,68,Male,12-07-2024,Stage 1 Hypertension,ICU,14087.3,9192.61
+1750,58,Female,12-07-2024,Stage 1 Hypertension,ICU,27051.39,3503.21
+2213,36,Female,12-07-2024,Emergency Case,Private,44475.82,38991.8
+8619,45,Male,12-07-2024,Stage 1 Hypertension,General,36889.61,25189.82
+4033,29,Female,12-07-2024,Emergency Case,ICU,16967.62,2735.41
+9098,29,Female,12-07-2024,Emergency Case,General,21896.82,9863.35
+8613,65,Male,12-07-2024,No Hypertension,ICU,24066.04,5858.58
+5564,84,Female,12-07-2024,Stage 1 Hypertension,General,26331.51,17493.63
+7912,42,Female,12-07-2024,No Hypertension,ICU,6412.74,2999.31
+1042,85,Male,12-07-2024,Emergency Case,General,32470.79,13376.68
+1320,34,Female,12-07-2024,Stage 2 Hypertension,Private,16872.27,13980.88
+7924,38,Male,12-07-2024,Emergency Case,Private,30691.73,20741.2
+5066,64,Female,12-07-2024,Stage 1 Hypertension,ICU,27031.54,3678.85
+7484,83,Male,12-07-2024,Emergency Case,Private,45577.03,39528.18
+5808,61,Female,12-07-2024,Stage 2 Hypertension,General,41459.56,15683.44
+6355,67,Female,12-07-2024,Stage 2 Hypertension,Private,28978.1,20857.1
+3608,84,Female,12-07-2024,No Hypertension,General,49795.98,17605.62
+8933,76,Male,12-07-2024,Emergency Case,General,27104.53,19899.74
+7528,63,Female,12-07-2024,Emergency Case,General,31043.58,27333.28
+1344,78,Female,12-07-2024,No Hypertension,ICU,4510.56,1848.72
+6425,86,Male,12-07-2024,No Hypertension,ICU,46954.28,25927.46
+3037,78,Female,12-07-2024,Emergency Case,General,49520.66,44419.15
+1400,49,Female,12-07-2024,Stage 2 Hypertension,ICU,15623.64,3887.24
+9179,27,Female,12-07-2024,Stage 2 Hypertension,Private,48120.94,10249.25
+6881,78,Male,12-07-2024,Stage 2 Hypertension,ICU,46973.95,6089.43
+8179,34,Male,12-07-2024,Stage 2 Hypertension,ICU,16562.28,14122.67
+6491,25,Female,12-07-2024,Stage 2 Hypertension,General,3397.02,1452.46
+7930,26,Male,12-07-2024,Emergency Case,Private,10134.45,4016.65
+4571,25,Female,12-07-2024,Stage 2 Hypertension,Private,46258.2,23152.58
+7951,51,Male,12-07-2024,No Hypertension,Private,6061.07,1569.4
+1711,68,Female,12-07-2024,No Hypertension,Private,35713.26,4794.56
+7043,60,Female,12-07-2024,No Hypertension,ICU,39001.13,21691.97
+7252,36,Male,12-07-2024,No Hypertension,Private,29525.63,15308.14
+3532,84,Male,12-07-2024,Stage 1 Hypertension,ICU,16331.98,10685.81
+4853,25,Female,12-07-2024,No Hypertension,ICU,28192.03,11064.6
+4185,76,Female,12-07-2024,No Hypertension,ICU,34884.17,19096.46
+7658,65,Male,12-07-2024,No Hypertension,ICU,19638.33,15150.29
+1132,80,Female,12-07-2024,Emergency Case,ICU,25043.29,10538.92
+5040,31,Female,12-07-2024,Emergency Case,ICU,26362.86,3494.64
+3950,35,Female,12-07-2024,Stage 1 Hypertension,ICU,38724.14,23394.22
+1282,29,Female,12-07-2024,Stage 1 Hypertension,Private,35800.58,26191.5
+6419,86,Female,12-07-2024,Emergency Case,ICU,23210.87,13989.12
+5844,66,Male,12-07-2024,Stage 1 Hypertension,Private,16166.4,5298.06
+2040,55,Female,12-07-2024,Stage 1 Hypertension,General,7782,2061.67
+1949,74,Male,12-07-2024,Stage 2 Hypertension,General,25617.68,18104.69
+6772,56,Male,12-07-2024,Emergency Case,ICU,27466.31,23560.46
+2315,27,Male,12-07-2024,No Hypertension,ICU,5787.24,996.56
+8699,58,Female,12-07-2024,Emergency Case,Private,43201.14,13534.71
+6507,74,Female,12-07-2024,No Hypertension,Private,17420.37,6084.22
+3785,89,Female,12-07-2024,Stage 1 Hypertension,Private,16846.8,12345.6
+5133,64,Female,12-07-2024,Emergency Case,General,35558.04,18162.45
+4652,27,Male,12-07-2024,No Hypertension,Private,41553.43,14800.27
+6280,60,Female,12-07-2024,Stage 1 Hypertension,ICU,18410.05,13559.4
+9486,26,Female,12-07-2024,Stage 1 Hypertension,General,4315.67,2129.82
+6947,27,Male,12-07-2024,No Hypertension,Private,3017.93,1351.24
+1423,71,Male,12-07-2024,Stage 2 Hypertension,Private,30624.09,10457.44
+6213,23,Male,12-07-2024,Stage 2 Hypertension,Private,3009.86,2024.24
+5741,34,Female,12-07-2024,Stage 1 Hypertension,General,26783.41,16687.81
+8827,81,Female,12-07-2024,Stage 2 Hypertension,ICU,19566.64,9406.25
+8700,57,Female,12-07-2024,Emergency Case,ICU,36833.37,32033.75
+5415,33,Male,12-07-2024,Stage 1 Hypertension,Private,25584.71,6653.6
+7311,56,Male,12-07-2024,Stage 2 Hypertension,Private,36200.36,22192.64
+9201,73,Male,12-07-2024,Emergency Case,General,36808.68,14337.76
+7561,79,Female,12-07-2024,Stage 1 Hypertension,ICU,4826.01,1889
+3885,57,Female,12-07-2024,Stage 2 Hypertension,Private,31524.3,6070.89
+4228,70,Female,12-07-2024,Stage 2 Hypertension,General,26071.66,16614.07
+4841,67,Female,12-07-2024,Emergency Case,Private,31961.02,10607.38
+1359,90,Male,12-07-2024,Stage 2 Hypertension,Private,29157.37,7540.47
+3143,64,Female,12-07-2024,Stage 1 Hypertension,General,19324.01,8296.83
+6974,76,Male,12-07-2024,Stage 2 Hypertension,ICU,25007.2,9565.17
+7201,80,Female,12-07-2024,Emergency Case,Private,4449.02,2076.34
+8172,46,Female,12-07-2024,No Hypertension,General,9810.07,1508.94
+4457,61,Female,12-07-2024,Emergency Case,ICU,1397.84,802.4
+5956,22,Male,12-07-2024,Emergency Case,Private,36626.9,29796.81
+4263,49,Female,12-07-2024,Emergency Case,General,22848.22,19553.64
+8736,38,Female,12-07-2024,Stage 2 Hypertension,Private,17799.55,3373.83
+7046,51,Male,12-07-2024,Stage 1 Hypertension,Private,20211.77,6530.68
+3705,55,Male,12-07-2024,Stage 2 Hypertension,General,20321.8,11668.07
+2604,64,Male,12-07-2024,No Hypertension,General,39670.24,11599.94
+2419,76,Male,12-07-2024,Emergency Case,Private,31049.88,4834.07
+5000,64,Female,12-07-2024,Stage 1 Hypertension,ICU,14542.79,1772.49
+4262,56,Male,12-07-2024,Stage 2 Hypertension,ICU,33682.83,23719.28
+1601,83,Female,12-07-2024,Stage 2 Hypertension,Private,32050.7,6993.3
+3647,50,Male,12-07-2024,Stage 2 Hypertension,ICU,25080.83,15470.88
+7482,70,Female,12-07-2024,Stage 2 Hypertension,General,22927.49,9907.51
+5506,24,Male,12-07-2024,No Hypertension,ICU,19987.05,8404.39
+5982,27,Male,12-07-2024,Emergency Case,Private,32469.9,9114.59
+8941,25,Male,12-07-2024,No Hypertension,General,15053.97,4617.32
+9817,30,Male,12-07-2024,No Hypertension,General,18165.59,6350.79
+1651,20,Male,12-07-2024,No Hypertension,General,33189.66,18155.82
+3868,68,Female,12-07-2024,Stage 1 Hypertension,Private,8936.34,1866.57
+3170,78,Male,12-07-2024,No Hypertension,Private,8112.47,5213.45
+5681,30,Male,12-07-2024,Emergency Case,General,26465.58,10183.62
+6003,39,Male,12-07-2024,No Hypertension,ICU,22301.62,8497.26
+7691,85,Female,12-07-2024,Stage 2 Hypertension,Private,9764.47,7646
+5082,90,Female,12-07-2024,Stage 2 Hypertension,General,15348.8,3000.44
+8018,69,Male,12-07-2024,Stage 2 Hypertension,General,33290.23,12778.72
+7770,26,Male,12-07-2024,Stage 1 Hypertension,General,40112.94,12240.76
+2225,72,Male,12-07-2024,No Hypertension,General,9815.92,4032.15
+5342,72,Male,12-07-2024,No Hypertension,ICU,33967.29,14075.38
+4923,71,Male,12-07-2024,Stage 1 Hypertension,ICU,8329.42,6198.11
+6582,31,Male,12-07-2024,Stage 1 Hypertension,Private,4410.77,2822.98
+1525,76,Female,12-07-2024,Stage 2 Hypertension,ICU,22098.82,12392.44
+3803,89,Male,12-07-2024,Stage 1 Hypertension,General,20676.3,3826.46
+8800,67,Female,12-07-2024,Stage 2 Hypertension,Private,23945.52,16062.54
+2983,67,Female,12-07-2024,No Hypertension,General,5266.72,3009.95
+8784,59,Male,12-07-2024,Stage 2 Hypertension,Private,21430.89,2867.16
+2899,84,Female,12-07-2024,No Hypertension,Private,23974.57,18320.68
+1653,28,Female,12-07-2024,Emergency Case,Private,16919.89,7863.37
+4475,40,Female,12-07-2024,Stage 2 Hypertension,Private,41972.55,17649.43
+1158,52,Female,12-07-2024,Stage 2 Hypertension,General,2579.25,1695.83
+1634,90,Male,12-07-2024,Emergency Case,ICU,37023.33,19692.46
+4681,84,Male,12-07-2024,Stage 2 Hypertension,Private,6465.92,1080.74
+5915,42,Male,12-07-2024,Stage 1 Hypertension,ICU,27569.45,19188.71
+9379,32,Male,12-07-2024,Stage 2 Hypertension,ICU,45450.96,7907.78
+7991,85,Female,12-07-2024,Stage 1 Hypertension,General,36756.7,17673.82
+5011,50,Female,12-07-2024,Stage 2 Hypertension,General,3402.54,1847.9
+9928,52,Male,12-07-2024,Stage 2 Hypertension,ICU,28979.6,17517.98
+8102,74,Male,12-07-2024,Stage 2 Hypertension,Private,22614.67,16052.32
+6576,76,Male,12-07-2024,Emergency Case,General,16309.59,13703.84
+5499,67,Female,12-07-2024,Emergency Case,ICU,18338.81,5834.24
+2796,49,Male,12-07-2024,Stage 2 Hypertension,General,46370.2,20077.27
+1207,67,Female,12-07-2024,No Hypertension,Private,16723.14,14844.97
+1058,44,Female,12-07-2024,Emergency Case,ICU,30630.88,26280.04
+5050,23,Female,12-07-2024,Stage 1 Hypertension,General,15072.18,2212.72
+3683,70,Female,12-07-2024,Emergency Case,Private,41284.79,4590.35
+8438,41,Male,12-07-2024,Stage 2 Hypertension,General,19756.69,11024.84
+9955,88,Female,12-07-2024,Stage 2 Hypertension,ICU,8049.76,3885.56
+9847,81,Female,12-07-2024,Emergency Case,Private,30617.05,5382.08
+5636,64,Female,12-07-2024,No Hypertension,Private,31422.87,15466.35
+3287,78,Male,12-07-2024,Stage 1 Hypertension,Private,30192.38,25377.92
+9779,37,Female,12-07-2024,Emergency Case,Private,40041.13,7089.96
+6107,84,Male,12-07-2024,No Hypertension,General,25589.33,4566.45
+5198,25,Female,12-07-2024,No Hypertension,ICU,26657.77,7822.94
+5051,81,Male,12-07-2024,Stage 2 Hypertension,General,39462.26,9779.75
+9042,23,Male,12-07-2024,Emergency Case,ICU,24844.89,8507.78
+8529,76,Male,12-07-2024,No Hypertension,Private,25094.37,17830.31
+8260,63,Male,12-07-2024,Stage 1 Hypertension,General,14916.66,6890.8
+3344,25,Female,12-07-2024,No Hypertension,Private,3942.87,892.11
+1672,75,Male,12-07-2024,Stage 1 Hypertension,Private,23876.92,10785.98
+5371,31,Male,12-07-2024,No Hypertension,Private,3078.38,393.27
+8573,32,Female,12-07-2024,Emergency Case,General,22707.6,16884.53
+2697,66,Female,12-07-2024,Emergency Case,ICU,21151.34,6994.71
+4814,25,Male,12-07-2024,No Hypertension,General,31640.93,26401.67
+4937,77,Male,12-07-2024,Stage 1 Hypertension,General,46064.76,14870.38
+5949,48,Female,12-07-2024,Emergency Case,ICU,13279.22,10638.14
+2403,76,Male,12-07-2024,Stage 2 Hypertension,General,36847.35,30947.69
+2824,59,Female,12-07-2024,Stage 1 Hypertension,General,33256.18,12874.62
+8141,38,Female,12-07-2024,Stage 2 Hypertension,Private,24595.11,19434.27
+1153,81,Male,12-07-2024,No Hypertension,ICU,30904.79,20044.93
+5722,85,Female,12-07-2024,Stage 1 Hypertension,Private,48060.14,24886.29
+6862,80,Male,12-07-2024,Stage 1 Hypertension,Private,23419.7,5458.91
+5719,71,Male,12-07-2024,Emergency Case,General,40635.89,9244.13
+7484,40,Male,12-07-2024,Stage 1 Hypertension,General,26253.77,17353.98
+2876,85,Female,12-07-2024,No Hypertension,ICU,43718.15,24591.76
+8316,70,Male,12-07-2024,No Hypertension,Private,15766.99,3786.02
+4929,56,Female,12-07-2024,Emergency Case,Private,15415.05,5704.73
+5905,78,Female,12-07-2024,Emergency Case,Private,21287.97,17421.15
+9464,50,Male,12-07-2024,Emergency Case,ICU,27140.76,10066.65
+7371,57,Female,12-07-2024,Stage 1 Hypertension,Private,27311.41,13208.2
+4946,33,Male,12-07-2024,No Hypertension,ICU,11819.06,1591.48
+9797,36,Female,12-07-2024,No Hypertension,General,36979.03,18486.19
+5920,87,Female,12-07-2024,Stage 2 Hypertension,General,33316.99,27545.07
+8237,37,Female,12-07-2024,Stage 1 Hypertension,Private,32523.57,21139.46
+5092,54,Female,12-07-2024,Stage 2 Hypertension,ICU,3130.62,2311.69
+5616,87,Male,12-07-2024,No Hypertension,General,6231.8,3219.04
+7669,35,Female,12-07-2024,No Hypertension,ICU,38128.96,29893.23
+9056,32,Female,12-07-2024,No Hypertension,ICU,34834.37,19558.62
+1117,32,Male,12-07-2024,Stage 1 Hypertension,General,46282.77,28029.63
+8517,55,Male,12-07-2024,No Hypertension,ICU,20457.44,13441.29
+2020,39,Female,12-07-2024,Stage 1 Hypertension,ICU,14799.71,7614.99
+6442,67,Female,12-07-2024,Stage 2 Hypertension,General,26511.81,8174.27
+4878,29,Female,12-07-2024,No Hypertension,General,30963.74,19602.67
+7971,83,Male,12-07-2024,No Hypertension,ICU,44237.79,22022.41
+8679,29,Male,12-07-2024,Stage 2 Hypertension,ICU,5148.51,2170.72
+9317,77,Male,12-07-2024,Stage 1 Hypertension,ICU,18048.58,11324.79
+1685,60,Male,12-07-2024,Stage 1 Hypertension,ICU,49295.75,35285.89
+9935,61,Male,12-07-2024,Emergency Case,General,16807.4,14601.27
+7274,62,Female,12-07-2024,No Hypertension,General,22992.21,20018.22
+2229,52,Male,12-07-2024,Stage 1 Hypertension,Private,27895.37,10067.26
+8056,60,Male,12-07-2024,Stage 1 Hypertension,Private,32300.24,22294.54
+1590,42,Male,12-07-2024,Stage 1 Hypertension,General,37375.97,27339.72
+2753,51,Female,12-07-2024,Emergency Case,ICU,46729.25,30732.22
+9785,87,Male,12-07-2024,Emergency Case,Private,39157.83,8523.36
+3060,38,Male,12-07-2024,Stage 2 Hypertension,ICU,25731.74,4962.42
+7653,48,Female,12-07-2024,Stage 2 Hypertension,ICU,31505.46,28168.33
+8206,50,Male,12-07-2024,Emergency Case,General,7355.94,3204.33
+8579,43,Female,12-07-2024,No Hypertension,General,33512.89,16200.65
+9317,34,Male,12-07-2024,Stage 1 Hypertension,General,4845.39,2576.67
+8973,39,Female,12-07-2024,No Hypertension,ICU,25531.89,12036.67
+6912,58,Male,12-07-2024,Emergency Case,ICU,40881.87,35242.8
+5351,20,Male,12-07-2024,No Hypertension,General,48556.32,27390.4
+5543,73,Male,12-07-2024,Stage 1 Hypertension,General,30833.39,10968.82
+5853,89,Male,12-07-2024,No Hypertension,General,19807.01,15602.73
+3607,31,Female,12-07-2024,No Hypertension,ICU,24699.49,12597.25
+6804,56,Female,12-07-2024,No Hypertension,General,46409.76,26605.08
+8123,22,Female,12-07-2024,Stage 2 Hypertension,General,34790.16,3606.21
+9502,35,Female,12-07-2024,No Hypertension,ICU,48933.44,34779.63
+2188,88,Female,12-07-2024,No Hypertension,ICU,27526.34,8640.14
+7797,77,Female,12-07-2024,Stage 2 Hypertension,ICU,21288.02,13802.19
+2210,54,Female,12-07-2024,Stage 1 Hypertension,ICU,11700.94,3610.25
+9548,61,Male,12-07-2024,Stage 2 Hypertension,ICU,26188.97,8560.89
+9645,61,Male,12-07-2024,Stage 1 Hypertension,ICU,5044.71,1306.59
+3200,31,Female,12-07-2024,No Hypertension,Private,22707.22,19648.59
+9479,90,Female,12-07-2024,Emergency Case,Private,28405.51,7854.98
+9595,60,Female,12-07-2024,Stage 2 Hypertension,General,21258.65,13386.03
+9903,88,Female,12-07-2024,Stage 1 Hypertension,ICU,35574.78,17513
+4266,43,Male,12-07-2024,Emergency Case,General,39111.73,14910.44
+6617,70,Male,12-07-2024,Stage 2 Hypertension,ICU,38359.93,12832.76
+6421,30,Male,12-07-2024,Stage 1 Hypertension,General,28460.36,5028
+5901,50,Female,12-07-2024,Stage 2 Hypertension,ICU,36054.62,26666.82
+3646,77,Female,12-07-2024,Stage 1 Hypertension,General,43619.54,28273.97
+1472,26,Male,12-07-2024,Stage 1 Hypertension,Private,25774.21,16158.79
+1420,52,Male,12-07-2024,No Hypertension,Private,7503.14,2442.16
+9565,47,Male,12-07-2024,Stage 1 Hypertension,General,48069.68,12679.34
+5569,64,Female,12-07-2024,Stage 1 Hypertension,Private,17598.21,13600.72
+9808,70,Male,12-07-2024,Stage 2 Hypertension,Private,26666.47,13039.41
+7512,80,Female,12-07-2024,Stage 2 Hypertension,ICU,1586.11,482.85
+7291,79,Female,12-07-2024,Emergency Case,Private,30153.48,14195.1
+2122,87,Female,12-07-2024,Emergency Case,ICU,40928.07,33167.38
+9751,73,Male,12-07-2024,No Hypertension,General,17538.13,8728.99
+5552,70,Female,12-07-2024,No Hypertension,ICU,46580.34,22888.93
+4912,67,Male,12-07-2024,Emergency Case,ICU,46433.9,30005.16
+9998,53,Male,12-07-2024,No Hypertension,General,3529.37,2179.52
+4258,66,Male,12-07-2024,Emergency Case,ICU,41039.94,13179.62
+4502,47,Female,12-07-2024,Emergency Case,ICU,1934.84,665.33
+3267,38,Female,12-07-2024,No Hypertension,Private,1077.46,189.21
+6753,51,Female,12-07-2024,Stage 1 Hypertension,Private,23133.21,19783.7
+5114,41,Female,12-07-2024,Stage 2 Hypertension,Private,12376.94,5632.6
+1823,90,Male,12-07-2024,No Hypertension,Private,48511.05,9715.57
+5375,37,Female,12-07-2024,Stage 2 Hypertension,General,9284.88,4168.04
+2127,60,Female,12-07-2024,Stage 1 Hypertension,ICU,45938.49,15334.8
+4164,33,Male,12-07-2024,No Hypertension,ICU,21700.65,14990.72
+1409,76,Male,12-07-2024,No Hypertension,ICU,27408.87,17691.56
+3442,39,Male,12-07-2024,Stage 1 Hypertension,Private,14223.08,4882.3
+5892,26,Female,12-07-2024,Stage 2 Hypertension,ICU,31183.67,25497.18
+1753,58,Female,12-07-2024,No Hypertension,General,48391.11,36754.05
+9702,30,Female,12-07-2024,Stage 1 Hypertension,ICU,26707.66,15085.89
+5771,88,Female,12-07-2024,Emergency Case,Private,43418.3,28515.7
+2489,46,Female,12-07-2024,Emergency Case,ICU,28129.49,17479.8
+1659,60,Female,12-07-2024,No Hypertension,ICU,21131.05,8913.94
+4122,25,Female,12-07-2024,Stage 2 Hypertension,General,25301.47,21752.68
+1251,76,Male,12-07-2024,Stage 2 Hypertension,General,29847.49,22379.66
+4611,57,Female,12-07-2024,No Hypertension,Private,33238.14,5580.35
+9947,28,Male,12-07-2024,Stage 1 Hypertension,ICU,17558.91,9230.31
